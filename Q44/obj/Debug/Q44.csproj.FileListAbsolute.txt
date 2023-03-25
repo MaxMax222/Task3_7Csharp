@@ -1,0 +1,7 @@
+C:\Users\zrvma\source\repos\Task3_7\Q44\bin\Debug\Q44.exe.config
+C:\Users\zrvma\source\repos\Task3_7\Q44\bin\Debug\Q44.exe
+C:\Users\zrvma\source\repos\Task3_7\Q44\bin\Debug\Q44.pdb
+C:\Users\zrvma\source\repos\Task3_7\Q44\obj\Debug\Q44.csproj.AssemblyReference.cache
+C:\Users\zrvma\source\repos\Task3_7\Q44\obj\Debug\Q44.csproj.CoreCompileInputs.cache
+C:\Users\zrvma\source\repos\Task3_7\Q44\obj\Debug\Q44.exe
+C:\Users\zrvma\source\repos\Task3_7\Q44\obj\Debug\Q44.pdb

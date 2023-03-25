@@ -1,0 +1,7 @@
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_3\Task3_7\Q43\bin\Debug\Q43.exe.config
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_3\Task3_7\Q43\bin\Debug\Q43.exe
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_3\Task3_7\Q43\bin\Debug\Q43.pdb
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_3\Task3_7\Q43\obj\Debug\Q43.csproj.AssemblyReference.cache
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_3\Task3_7\Q43\obj\Debug\Q43.csproj.CoreCompileInputs.cache
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_3\Task3_7\Q43\obj\Debug\Q43.exe
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_3\Task3_7\Q43\obj\Debug\Q43.pdb

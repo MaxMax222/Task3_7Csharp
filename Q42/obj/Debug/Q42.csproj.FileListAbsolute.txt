@@ -1,0 +1,14 @@
+C:\Users\zrvma\source\repos\Task3_7\Q42\bin\Debug\Q42.exe.config
+C:\Users\zrvma\source\repos\Task3_7\Q42\bin\Debug\Q42.exe
+C:\Users\zrvma\source\repos\Task3_7\Q42\bin\Debug\Q42.pdb
+C:\Users\zrvma\source\repos\Task3_7\Q42\obj\Debug\Q42.csproj.AssemblyReference.cache
+C:\Users\zrvma\source\repos\Task3_7\Q42\obj\Debug\Q42.csproj.CoreCompileInputs.cache
+C:\Users\zrvma\source\repos\Task3_7\Q42\obj\Debug\Q42.exe
+C:\Users\zrvma\source\repos\Task3_7\Q42\obj\Debug\Q42.pdb
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_3\Task3_7\Q42\bin\Debug\Q42.exe.config
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_3\Task3_7\Q42\bin\Debug\Q42.exe
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_3\Task3_7\Q42\bin\Debug\Q42.pdb
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_3\Task3_7\Q42\obj\Debug\Q42.csproj.AssemblyReference.cache
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_3\Task3_7\Q42\obj\Debug\Q42.csproj.CoreCompileInputs.cache
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_3\Task3_7\Q42\obj\Debug\Q42.exe
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_3\Task3_7\Q42\obj\Debug\Q42.pdb

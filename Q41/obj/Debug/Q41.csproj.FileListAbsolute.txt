@@ -1,0 +1,7 @@
+C:\Users\zrvma\source\repos\Task3_7\Q41\bin\Debug\Q41.exe.config
+C:\Users\zrvma\source\repos\Task3_7\Q41\bin\Debug\Q41.exe
+C:\Users\zrvma\source\repos\Task3_7\Q41\bin\Debug\Q41.pdb
+C:\Users\zrvma\source\repos\Task3_7\Q41\obj\Debug\Q41.csproj.AssemblyReference.cache
+C:\Users\zrvma\source\repos\Task3_7\Q41\obj\Debug\Q41.csproj.CoreCompileInputs.cache
+C:\Users\zrvma\source\repos\Task3_7\Q41\obj\Debug\Q41.exe
+C:\Users\zrvma\source\repos\Task3_7\Q41\obj\Debug\Q41.pdb
